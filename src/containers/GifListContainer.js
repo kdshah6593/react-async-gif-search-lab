@@ -4,7 +4,7 @@ import GifSearch from '../components/GifSearch'
 
 class GifListContainer extends React.Component {
     state = {
-        gifs: [],
+        gifs: []
     }
     
     render() {
